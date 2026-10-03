@@ -76,8 +76,9 @@ The thesis also develops the theoretical framework behind the analysis, includin
 
 ```text
 .
-├── analysis/        # C++ / ROOT analysis code
-├── data/            # Data information or sample files
-├── figures/         # Selected plots and analysis results
-├── thesis/          # Bachelor's Thesis PDF
+├── Codes/        # C++ / ROOT analysis code
+├── Data/            # Data information or sample files
+├── plotis/         # Selected plots and analysis results
+├── Ferez_Martinez_MDolores_TFG/          # Bachelor's Thesis PDF
+├── prese.pdf/          # Bachelor's Thesis Presentation
 └── README.md
